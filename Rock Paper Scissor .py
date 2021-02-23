@@ -84,3 +84,5 @@ else:
         print("\t<Final Score>\n\t | Tie :",tie,"|\n|",name,":",win,"\tComputer :",lose,end="")
         print("|\n=====================================")
         print(name,"You Lose Rock Paper Scissor\n=====================================")
+
+input("Hit Enter To Exit")        
